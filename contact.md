@@ -12,7 +12,7 @@ AIm High感謝您的回饋。
 
 ### 回饋表單
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+感謝您的回饋，我們會盡快回覆。
 
 {% include form.html %}
 
