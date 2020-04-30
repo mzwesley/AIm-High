@@ -4,13 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+AIm High團隊十分注重各方的回饋，如果有任何回饋或是問題的話，歡迎用下方的表單與我們聯絡。
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
+除了下方的表單外，我們團隊也有[Facebook紛絲專頁](https://www.facebook.com/AImHighworkwithAI)。
 
-Check the form below to see it in action!
+AIm High感謝您的回饋。
 
-### Example Formspree contact form with validation and reCaptcha
+### 回饋表單
 
 Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
