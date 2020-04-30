@@ -2,7 +2,7 @@
 title: AIm High # your site title
 author: mzwesley # You :P
 description: > # Meta description of Homepage
-  涵蓋各領域、直擊問題點、精簡好閱聽 的資訊平臺，將訪問影片與訪問文章的精華片段發布於上，期待青年學子們能藉著此網站，獲知在自己的專業內，來自就業市場需求者的第一手資訊。
+  Work with AI
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mzwesley.github.io/AIm-High" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  AIm High: Work with AI.
+  涵蓋各領域、直擊問題點、精簡好閱聽 的資訊平臺，將訪問影片與訪問文章的精華片段發布於上，期待青年學子們能藉著此網站，獲知在自己的專業內，來自就業市場需求者的第一手資訊。
 
 hero_img: background.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
